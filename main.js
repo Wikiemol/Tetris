@@ -36,7 +36,7 @@ function Main() {
 				      [[1, 1, 1],
 				       [0, 0, 1]]);
 
-	Main.pieces[2] = new TiledTemplate("#bb00bb", //he he
+	Main.pieces[2] = new TiledTemplate("#bb00bb",
 				      [[0, 1, 0],
 				       [1, 1, 1]]);
 
